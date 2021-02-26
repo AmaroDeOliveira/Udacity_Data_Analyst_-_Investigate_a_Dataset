@@ -1,10 +1,12 @@
 # Investigate a Dataset - Evaluation GDP per sector for several countries
- In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
+Project to Udacity in partial fulfillment of the requirements for the Danalyst Nanodegree.
+
+In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
 
 ## Table of Contents
 
 * [Introduction](#Introduction)
-* [Data Wrangling](#Data_Wrangling)
+* [Data Wrangling](#Data-Wrangling)
 * [Summary](#Summary)
 
 ## Introduction
